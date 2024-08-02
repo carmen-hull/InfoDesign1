@@ -6,7 +6,7 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Visual Cognition • Fall 2024 
+# Information Design Principles • Fall 2024 
 
 {: .new }
 Check out the [final project showcase](https://vis-society.github.io/final-project/showcase/)! 
